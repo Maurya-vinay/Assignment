@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28602" started-at="2018-11-20T17:39:50Z" finished-at="2018-11-20T17:40:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28602" started-at="2018-11-20T17:39:50Z" finished-at="2018-11-20T17:40:19Z">
+      <class name="com.apptest.runner.TestRunner">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.apptest.runner.TestRunner@6093dd95]" name="openBrowser" is-config="true" duration-ms="7653" started-at="2018-11-20T17:39:50Z" finished-at="2018-11-20T17:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.apptest.runner.TestRunner@6093dd95]" name="initialize" is-config="true" duration-ms="9" started-at="2018-11-20T17:39:58Z" finished-at="2018-11-20T17:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testCases()[pri:0, instance:com.apptest.runner.TestRunner@6093dd95]" name="testCases" duration-ms="20745" started-at="2018-11-20T17:39:58Z" finished-at="2018-11-20T17:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCases -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.apptest.runner.TestRunner@6093dd95]" name="closeBrowser" is-config="true" duration-ms="165" started-at="2018-11-20T17:40:19Z" finished-at="2018-11-20T17:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.apptest.runner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
